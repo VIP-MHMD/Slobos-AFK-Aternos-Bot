@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Taztouz.aternos.me",
+    "ip": "collie.aternos.host",
     "port": 62889,
     "version": "1.21",
     "try-creative": false
